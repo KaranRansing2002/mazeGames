@@ -4,8 +4,8 @@ const ctx=canvas.getContext('2d');
 
 let grid=[];
 let size=600;
-let rows=60;
-let cols=60;
+let rows=20
+let cols=20;
 let cellSize=size/rows;
 let currentCell;
 let stack=[];
